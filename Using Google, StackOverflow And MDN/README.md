@@ -1,0 +1,3 @@
+# This Subrepo Teaches You About Using The Tools You Have, And Upgrading Your Problem Solving Skills, By Using Google, Developer Sites, Asking AI's, And How To "Divide And Conquer" Coding Challenges and Problems, While Trying Not To Panic When It Doesn't Work😅, This One Is Significantly Detailed And Pretty Long I Would Say, So Test It Around, With Yourself, Keep On Reviewing It Until You Feel Like You Know Enough, And Keep On Practicing, Because Failing Is A Part Of The Process, And You Cant Grow Without It, Anyways, Let Me Know If You Encounter Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
