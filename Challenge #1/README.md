@@ -1,0 +1,3 @@
+# This Subrepo Is Specifically Made For A Challenge, Which Was To Test You And Your Skills With Your Knowledge You Learned While Hopefully Practicing And Solving Other Mini Challenges All The Way Here😅, And My Advice Is, Just Try To Do It, It Doesnt Matters If You Dont Do It Perfectly Or Failed, I Just Want You To Learn And Use The Divide And Conquer Method, Which Is Very Important And Helps Alot,  So Again, At The Very Least, Just Try To Solve It Yourself, And The Answer Is In The answer.js File, So Good Luck! Let Me Know If You Encounter Any Errors! I Hope U Like It! 
+
+# Made With Love By Musa!
